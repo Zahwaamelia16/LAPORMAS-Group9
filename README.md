@@ -13,7 +13,7 @@ npm run dev
 
 Letakkan foto lingkungan/desa yang dipakai pada panel kiri dengan nama:
 
-`public/images/hero-lapormas.jpg`
+`public/images/hero-lapormas.png`
 
 Jika gambar belum tersedia, panel tetap memiliki warna dasar dan overlay hijau, tetapi foto latar tidak akan tampil.
 
